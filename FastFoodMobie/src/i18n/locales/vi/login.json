@@ -1,0 +1,16 @@
+{
+    "email_address":"Địa chỉ email",
+    "password" :"Mật khẩu",
+    "rePassword" :"Nhập lại mật khẩu",
+    "login":"Đăng nhập",
+    "forget_password":"Quên mật khẩu?",
+    "privacy_policy":"Chính sách bảo mật",
+    "DontHaveAccount": "Bạn chưa có tài khoản?  ",
+    "SignUp": "Đăng ký",
+    "SignUpNow": "Đăng ký ngay",
+    "HaveAccount": "Bạn đã có tài khoản?  ",
+    "SignInNow": "Đăng nhập ngay",
+    "remember": "Nhớ mật khẩu",
+    "agreePolicy": "Bằng việc nhấn đăng ký đồng nghĩa bạn đồng ý với ",
+    "policy": "điều khoản sử dụng"
+}

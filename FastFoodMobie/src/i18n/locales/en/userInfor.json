@@ -1,0 +1,10 @@
+{
+    "fisrtName": "Họ",
+    "lastName": "Tên",
+    "address": "Địa chỉ",
+    "email": "Email",
+    "birthday": "Ngày sinh",
+    "update": "Cập nhật",
+    "changePass": "Đổi mật khẩu",
+    "back": "Quay lại"
+}

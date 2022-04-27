@@ -1,0 +1,13 @@
+{
+    "email_address":"Email",
+    "rePassword" :"Re input password",
+    "login":"Login",
+    "forget_password":"Forgot password?",
+    "privacy_policy":"Privac Ppolicy",
+    "DontHaveAccount": "You don't have account?  ",
+    "SignUp": "Sign-up",
+    "SignUpNow": "Sign-up now",
+    "HaveAccount": "You have account?  ",
+    "SignInNow": "Login now",
+    "remember": "Remember password"
+}
